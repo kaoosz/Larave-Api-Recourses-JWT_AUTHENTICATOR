@@ -1,6 +1,7 @@
 simple demostration using
 
 Api-Resources and Jwt-auth
+
 Simple API REST 
 using demostration 'users' table with Relationships with 'posts'
 
