@@ -3,7 +3,9 @@ simple demostration using
 Api-Resources and Jwt-auth
 
 Simple API REST 
-using demostration 'users' table with Relationships with 'posts'
+using for the demostration how use API Rest with JSON Web Tokens..
+'users' table with the Relationships with 'posts' table
+posts belongs to user..
 
 using https://github.com/PHP-Open-Source-Saver/jwt-auth/
 
